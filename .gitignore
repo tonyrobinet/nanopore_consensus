@@ -2,5 +2,5 @@
 */03_porechop/*.ngm
 */04_multialignment/*.pileup
 */02_vsearch/*_cluster_*
-*/01_nanofilt/
+*/01_nanofilt/PASS/
 
