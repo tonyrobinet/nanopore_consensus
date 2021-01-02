@@ -1,0 +1,15 @@
+Chrom	Position	Ref	Cons	Reads1	Reads2	VarFreq	Strands1	Strands2	Qual1	Qual2	Pvalue	MapQual1	MapQual2	Reads1Plus	Reads1Minus	Reads2Plus	Reads2Minus	VarAllele
+barcode62_consensus_vsearch	339	G	R	41	32	42.11%	2	1	93	93	2.8926435733102313E-12	1	1	20	21	32	0	A
+barcode62_consensus_vsearch	493	T	K	71	8	10.13%	2	1	93	93	0.0032428631996773124	1	1	47	24	8	0	G
+barcode62_consensus_vsearch	1071	G	R	38	12	15.19%	2	2	93	93	1.1557237069086693E-4	1	1	24	14	9	3	+A
+barcode62_consensus_vsearch	1399	G	R	65	13	16.67%	2	1	93	93	7.08355840527916E-5	1	1	41	24	13	0	A
+barcode62_consensus_vsearch	1523	G	R	71	7	8.86%	2	1	93	93	0.006788393631324507	1	1	47	24	7	0	A
+barcode62_consensus_vsearch	1828	C	Y	43	34	44.16%	2	2	93	93	5.202799862264712E-13	1	1	30	13	24	10	T
+barcode62_consensus_vsearch	1839	T	Y	42	37	46.84%	2	2	93	93	2.78099113246007E-14	1	1	30	12	25	12	C
+barcode62_consensus_vsearch	2164	G	R	70	8	10.26%	2	1	93	93	0.0032347379048596157	1	1	46	24	8	0	A
+barcode62_consensus_vsearch	3317	G	R	69	9	11.39%	2	1	93	93	0.001529943603649897	1	1	45	24	9	0	A
+barcode62_consensus_vsearch	3726	A	R	65	11	13.92%	2	1	93	93	3.30910248362529E-4	1	1	42	23	11	0	G
+barcode62_consensus_vsearch	3744	A	R	69	9	11.54%	2	1	93	93	0.001529943603649897	1	1	46	23	9	0	G
+barcode62_consensus_vsearch	4058	G	S	10	13	20%	2	1	93	93	1.1242098593204898E-5	1	1	9	1	13	0	+C
+barcode62_consensus_vsearch	4059	C	M	67	7	9.33%	2	1	93	93	0.006734644665677596	1	1	43	24	7	0	A
+barcode62_consensus_vsearch	4389	T	Y	69	10	12.66%	2	2	93	93	7.211199150960067E-4	1	1	46	23	9	1	C
